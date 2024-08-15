@@ -39,3 +39,4 @@ Customization
 Customize the alert system to integrate with  sound alert notification method
 Adjust the mask detection threshold to suit your specific requirements
 Integrate with existing surveillance systems or infrastructure
+please Free to contact on : https://www.linkedin.com/in/kishanshr/
